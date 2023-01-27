@@ -70,7 +70,7 @@ header > p {
 
 nav > a {
               color: var(--cor1);
-              padding: 10px;
+              padding: 20px;
               border-radius: 5px;
               text-decoration: none;
               font-weight: bold;
